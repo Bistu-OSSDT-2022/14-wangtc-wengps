@@ -10,4 +10,4 @@
 # 项目介绍
 待补充
 # 成品预览
-！https://github.com/Bistu-OSSDT-2022/14-wangtc-wengps/blob/main/wenjian/ScreenShots/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220626234627.png
+图
