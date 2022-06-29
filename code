@@ -1,68 +1,80 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <h1>北京信息科技大学</h1>
-<style>
-    
-    body {
-      background-color: yellow;
-    }
-  
-  body {
-    position: relative;
-    top: 40px;
-  }
-  img {
-    width: 50px;
-    display: block;
-  }
-  nav {
-    position: fixed;
-    top: 0;
-    height: 35px;
-    z-index: 999;
-    background: linear-gradient(50deg,#cff,#fcc);
-    width: 100%;
-    margin-left: 0;
-    padding-top: 10px;
-  }
-  nav button {
-    margin: auto 10px;
-    font-size: 15px;
-    border-radius: 5px;
-  }
-  input[type=email]:invalid {
-    border: 2px dashed red;
-  }
-  form {
-    margin-top: 10px;
-  }
-</style>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=">
-    <title>北京信息科技大学</title>
+    <style>
+          body {
+                position: relative;
+                color:#5555FF;
+
+        }
+
+          img {
+                width: 50px;
+                display: block;
+
+        }
+
+          nav {
+                position: fixed;
+                top: 0;
+                height: 35px;
+                z-index: 999;
+                background: linear-gradient(50deg,rgb(46, 4, 232),rgb(46, 4, 232));
+                width: 100%;
+                margin-left: 0;
+                padding-top: 10px;
+
+        }
+
+              nav button {
+                    margin: auto 10px;
+                    font-size: 15px;
+                    border-radius: 5px;
+
+            }
+
+          input[type=email]:invalid {
+                border: 2px dashed red;
+
+        }
+
+          form {
+                margin-top: 10px;
+
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=">
+    <title>北京信息科技大学</title>
 </head>
-<body background="https://i0.hdslb.com/bfs/article/8112a2416be925ffef247b9044ef95be2020086e.png@942w_600h_progressive.webp"
-        < img id="header-img" src="https://ts1.cn.mm.bing.net/th/id/R-C.0b47b671f6584e2d8a43aecf06782baf?rik=Ro2Metk4M%2bVtuQ&riu=http%3a%2f%2fimg.jj20.com%2fup%2fallimg%2ftx19%2f58031931114499.jpg&ehk=B0Ur6d2RjKHX%2bWAjCAqefk4m6FBJUVbwIIwah4XdywE%3d&risl=&pid=ImgRaw&r=0" />
-        <nav id="nav-bar">
-            <button harf="#666"class="nav-link">校园介绍</button>
-            <button class="nav-link">校园风采</button>
-            <button class="nav-link">视频介绍</button>
-        </nav>
-        <video id="video" width="320" height="240" controls>
-            <source src="#" width="320" height="240">
-        </video>
-        <h2 id="666">标题一</h2>
-        <p1>内容一</p1>
-        <form id="form" action=" https://www.freecodecamp.com/email-submit" methods="post">
-            <label for="email">邮箱：</label>
-            <input id="email" type="email" placeholder="邮箱">
-            <input id="submit" type="submit" value="Submit">
-        </form>
-        <h2>标题二</h2>
-        <p3>内容二</p3>
-        <h3>标题三</h3>
-        <p4>内容三</p4>
-    </div>
+    <body background="https://news.bistu.edu.cn/gyxy/202205/W020220511490492296901.jpg">
+    <style>
+        body {
+            background-attachment:fixed;
+            top: 20px;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
+    <img src="https://img.sj33.cn/uploads/202102/7-210211005S95c.jpg"style="width:270;height:166">
+    <h1>北京信息科技大学</h1>
+    <nav id="nav-bar">
+        <button href="#666" class="nav-link">校园介绍</button>
+        <button class="nav-link">校园风采</button>
+        <button class="nav-link">视频介绍</button>
+    </nav>
+    <video id="video" width="320" height="240" controls>
+        <source src="#" width="320" height="240">
+    </video>
+    <h2 id="666">标题一</h2>
+    <p1>内容一</p1>
+    <h2>标题二</h2>
+    <p3>内容二</p3>
+    <h3>标题三</h3>
+    <p4>内容三</p4>
+</div>
 </body>
 </html>
