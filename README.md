@@ -10,4 +10,4 @@
 # 项目介绍
 项目设计过程中小组成员通过自学HTML与CSS完成一个简单的校园网登录页的制作
 # 成品预览
-网址：https://bistu-ossdt-2022.github.io/14-wangtc-wengps
+网址：
